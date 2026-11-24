@@ -35,7 +35,7 @@ We looked and did not find these on SHL's public pages, so the notes do not stat
 
 ## What is our own guidance
 
-The plain-language scale descriptions, the methods, the traps, the study plans and all 30 example blocks and 9 diagnostic statements are our own work. The descriptions summarise each scale in our words. They are not SHL's wording.
+The plain-language scale descriptions, the methods, the traps, the study plans and all 15 example blocks and 6 diagnostic statements are our own work. The descriptions summarise each scale in our words. They are not SHL's wording.
 
 ## Not affiliated
 

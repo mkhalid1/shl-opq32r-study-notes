@@ -4,7 +4,7 @@
 
 **In one line:** ten OPQ scales about how you deal with other people at work: how much you lead and persuade, how sociable you are, and how much you consult and support others.
 
-SHL groups the OPQ32's 32 characteristics into broad areas. Relationships with People is the first, with three sub-groups: **Influence**, **Sociability** and **Empathy**. This page explains each scale in plain words, shows how statements about them appear in a block, and walks through ten example blocks.
+SHL groups the OPQ32's 32 characteristics into broad areas. Relationships with People is the first, with three sub-groups: **Influence**, **Sociability** and **Empathy**. This page explains each scale in plain words, shows how statements about them appear in a block, and walks through five example blocks.
 
 ## What it measures
 
@@ -56,7 +56,7 @@ The OPQ32r is untimed. SHL's figures for the average completion time range from 
 
 ## Practice items
 
-These ten example blocks are original, written for these notes. They are not taken from the OPQ32r or any SHL material. Each block has two tasks:
+These five example blocks are original, written for these notes. They are not taken from the OPQ32r or any SHL material. Each block has two tasks:
 
 1. **Name the scale** each statement points to, using the table above. This has a right answer and is scored below.
 2. **Rank the statements for yourself.** This has no right answer. Pick the one most like you at work, then the more like you of the remaining two. The explanations show how two different, honest people might rank the same block.
@@ -65,19 +65,11 @@ These ten example blocks are original, written for these notes. They are not tak
 
 | | Statement |
 |---|---|
-| A | I enjoy winning people round to my point of view. |
-| B | I like to be around colleagues for most of the working day. |
-| C | I ask for other people's views before I make a decision. |
-
-### Block 2
-
-| | Statement |
-|---|---|
 | A | I say so when I disagree with someone, even a senior colleague. |
 | B | I feel at ease walking into a room full of people I have never met. |
 | C | I make time to help colleagues who are dealing with personal problems. |
 
-### Block 3
+### Block 2
 
 | | Statement |
 |---|---|
@@ -85,7 +77,7 @@ These ten example blocks are original, written for these notes. They are not tak
 | B | I keep quiet about my own successes. |
 | C | I am lively and talkative in team meetings. |
 
-### Block 4
+### Block 3
 
 | | Statement |
 |---|---|
@@ -93,20 +85,7 @@ These ten example blocks are original, written for these notes. They are not tak
 | B | I involve the whole team when we have a decision to make. |
 | C | I enjoy negotiating a better deal. |
 
-<details>
-<summary>Answers and explanations, blocks 1 to 4</summary>
-
-**Block 1: A Persuasive, B Affiliative, C Democratic.** A is about changing others' views. B is about wanting company while you work. C is about consulting before deciding. *How two people might rank it:* Mina, who works in recruitment and spends her days convincing candidates and clients, puts A first and B second, because she does enjoy the buzz of a busy office. Owen, a project coordinator, puts C first: he can name three decisions last month where he polled the team before acting. Both are honest. Neither is the "right" answer.
-
-**Block 2: A Outspoken, B Socially Confident, C Caring.** A is about voicing disagreement. B is about ease with strangers. C is about supporting others with personal matters. *How two people might rank it:* someone who regularly challenges plans in meetings but dreads networking events would put A first and B last. Someone who is the first person colleagues come to when life gets hard would put C first. If you cannot decide, ask which one your manager would mention first.
-
-**Block 3: A Controlling, B Modest, C Outgoing.** A is about taking the lead. B is about not advertising achievements. C is about energy in groups. *How two people might rank it:* a team captain type puts A first. A quietly effective analyst who never mentions a win in the team chat puts B first. Note that C and A are different things: you can be lively in meetings without wanting to run them, or run a team in a calm, quiet way.
-
-**Block 4: A Independent Minded, B Democratic, C Persuasive.** A is about holding your own course against the majority. B is about consulting widely. C is about selling and negotiating. *How two people might rank it:* this block often feels uncomfortable because A and B pull in opposite directions. That is the point of the format: it makes you choose. Think of the last real disagreement about how to do something. Did you go your own way, or bring everyone in? Rank from that memory.
-
-</details>
-
-### Block 5
+### Block 4
 
 | | Statement |
 |---|---|
@@ -114,15 +93,20 @@ These ten example blocks are original, written for these notes. They are not tak
 | B | I feel comfortable at formal business dinners. |
 | C | I tell people clearly when I think their idea will not work. |
 
-### Block 6
+<details>
+<summary>Answers and explanations, blocks 1 to 4</summary>
 
-| | Statement |
-|---|---|
-| A | I take the lead when a group seems unsure what to do. |
-| B | I notice when a colleague is having a hard time and check in with them. |
-| C | I prefer to let my work speak for itself rather than talk about what I achieved. |
+**Block 1: A Outspoken, B Socially Confident, C Caring.** A is about voicing disagreement. B is about ease with strangers. C is about supporting others with personal matters. *How two people might rank it:* someone who regularly challenges plans in meetings but dreads networking events would put A first and B last. Someone who is the first person colleagues come to when life gets hard would put C first. If you cannot decide, ask which one your manager would mention first.
 
-### Block 7
+**Block 2: A Controlling, B Modest, C Outgoing.** A is about taking the lead. B is about not advertising achievements. C is about energy in groups. *How two people might rank it:* a team captain type puts A first. A quietly effective analyst who never mentions a win in the team chat puts B first. Note that C and A are different things: you can be lively in meetings without wanting to run them, or run a team in a calm, quiet way.
+
+**Block 3: A Independent Minded, B Democratic, C Persuasive.** A is about holding your own course against the majority. B is about consulting widely. C is about selling and negotiating. *How two people might rank it:* this block often feels uncomfortable because A and B pull in opposite directions. That is the point of the format: it makes you choose. Think of the last real disagreement about how to do something. Did you go your own way, or bring everyone in? Rank from that memory.
+
+**Block 4: A Affiliative, B Socially Confident, C Outspoken.** A is about preferring company at work. B is about ease in formal settings. C is about voicing criticism. *How two people might rank it:* someone who loves an open-plan office but finds formal dinners stiff would rank A, then C or B depending on how often they push back on ideas. Be careful not to merge A and B: liking people around you is not the same as feeling at ease with strangers in formal settings.
+
+</details>
+
+### Block 5
 
 | | Statement |
 |---|---|
@@ -131,48 +115,9 @@ These ten example blocks are original, written for these notes. They are not tak
 | C | I like changing people's minds. |
 
 <details>
-<summary>Answers and explanations, blocks 5 to 7</summary>
+<summary>Answers and explanations, block 5</summary>
 
-**Block 5: A Affiliative, B Socially Confident, C Outspoken.** A is about preferring company at work. B is about ease in formal settings. C is about voicing criticism. *How two people might rank it:* someone who loves an open-plan office but finds formal dinners stiff would rank A, then C or B depending on how often they push back on ideas. Be careful not to merge A and B: liking people around you is not the same as feeling at ease with strangers in formal settings.
-
-**Block 6: A Controlling, B Caring, C Modest.** A is about taking charge. B is about attending to others' wellbeing. C is about not talking up your achievements. *How two people might rank it:* a shift supervisor who naturally steps in during a busy rush puts A first. A teaching assistant who often stays after class to listen to a struggling colleague puts B first. Ask yourself which you did more of in the last month, not which you value more.
-
-**Block 7: A Outgoing, B Independent Minded, C Persuasive.** A is about liveliness in groups. B is about acting against the majority. C is about changing views. *How two people might rank it:* B and C can look alike, but they are different. Persuasive people work to bring others round. Independent Minded people may simply carry on their own way without trying to convince anyone. Think about which you actually do.
-
-</details>
-
-### Block 8
-
-| | Statement |
-|---|---|
-| A | I feel at ease in formal settings with people I do not know. |
-| B | I consult the people affected before I change how something is done. |
-| C | I like to tell the team what needs doing and by whom. |
-
-### Block 9
-
-| | Statement |
-|---|---|
-| A | I rarely mention my achievements, even when they are relevant. |
-| B | I miss having people around when I work from home. |
-| C | I voice my objections openly in meetings. |
-
-### Block 10
-
-| | Statement |
-|---|---|
-| A | I enjoy persuading a hesitant customer. |
-| B | I go out of my way to support colleagues who are struggling. |
-| C | I prefer to do things my own way rather than follow the group. |
-
-<details>
-<summary>Answers and explanations, blocks 8 to 10</summary>
-
-**Block 8: A Socially Confident, B Democratic, C Controlling.** A is about ease with new people. B is about consulting before acting. C is about directing others. *How two people might rank it:* a new team leader may find C and B both true. The tie-breaker question helps: "When I changed the rota last month, did I ask first or announce it?" Answer from what happened.
-
-**Block 9: A Modest, B Affiliative, C Outspoken.** A is about keeping quiet on successes. B is about wanting people around. C is about voicing objections. *How two people might rank it:* someone who loves remote work would put B last without hesitation. Someone who has had feedback to "speak up more in meetings" probably should not put C first, unless that has since changed.
-
-**Block 10: A Persuasive, B Caring, C Independent Minded.** A is about bringing others round, here in a selling context. B is about support. C is about going your own way. *Consistency check:* look back at blocks 1, 4, 7 and 10. Each includes a Persuasive statement. If you ranked it first in one and last in another, ask why. Sometimes the other statements in the block were simply more like you, which is fine. If instead you were answering differently depending on mood, settle on how you really are and keep to it.
+**Block 5: A Outgoing, B Independent Minded, C Persuasive.** A is about liveliness in groups. B is about acting against the majority. C is about changing views. *How two people might rank it:* B and C can look alike, but they are different. Persuasive people work to bring others round. Independent Minded people may simply carry on their own way without trying to convince anyone. Think about which you actually do.
 
 </details>
 
@@ -182,26 +127,23 @@ This scores your **scale recognition**, which helps you read an OPQ report and p
 
 | Block | A | B | C |
 |---|---|---|---|
-| 1 | Persuasive | Affiliative | Democratic |
-| 2 | Outspoken | Socially Confident | Caring |
-| 3 | Controlling | Modest | Outgoing |
-| 4 | Independent Minded | Democratic | Persuasive |
-| 5 | Affiliative | Socially Confident | Outspoken |
-| 6 | Controlling | Caring | Modest |
-| 7 | Outgoing | Independent Minded | Persuasive |
-| 8 | Socially Confident | Democratic | Controlling |
-| 9 | Modest | Affiliative | Outspoken |
-| 10 | Persuasive | Caring | Independent Minded |
+| 1 | Outspoken | Socially Confident | Caring |
+| 2 | Controlling | Modest | Outgoing |
+| 3 | Independent Minded | Democratic | Persuasive |
+| 4 | Affiliative | Socially Confident | Outspoken |
+| 5 | Outgoing | Independent Minded | Persuasive |
 
-Count your correct scale names out of 30.
+Count your correct scale names out of 15.
 
-- **26 to 30:** you know these scales well. Move to [Thinking Style](thinking-style.md).
-- **20 to 25:** the usual mix-ups are Persuasive with Independent Minded, Affiliative with Socially Confident, and Outgoing with Controlling. Reread their rows in the table.
-- **19 or fewer:** read the table once more, then redo the blocks naming the scale before you look at your own ranking.
+- **13 to 15:** you know these scales well. Move to [Thinking Style](thinking-style.md).
+- **10 to 12:** the usual mix-ups are Persuasive with Independent Minded, Affiliative with Socially Confident, and Outgoing with Controlling. Reread their rows in the table.
+- **9 or fewer:** read the table once more, then redo the blocks naming the scale before you look at your own ranking.
+
+Want more? The [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r) has a 104-block forced-choice practice pack in the real format, and you can try the first blocks and a sample result free.
 
 ### Your own pattern
 
-Look at your rankings across the ten blocks. Which two or three scales did you put first most often? Write one real work example for each. These are the scales an interviewer is most likely to ask about if the employer uses your OPQ report. The [answering honestly](../answering-honestly.md) page shows how to prepare.
+Look at your rankings across the five blocks. Which two or three scales did you put first most often? Write one real work example for each. These are the scales an interviewer is most likely to ask about if the employer uses your OPQ report. The [answering honestly](../answering-honestly.md) page shows how to prepare.
 
 ## Next step
 

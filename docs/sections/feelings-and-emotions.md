@@ -54,7 +54,7 @@ Untimed, with SHL's average completion figures between 15 and 25 minutes. As our
 
 ## Practice items
 
-These ten example blocks are original, written for these notes. They are not taken from the OPQ32r or any SHL material. For each block:
+These five example blocks are original, written for these notes. They are not taken from the OPQ32r or any SHL material. For each block:
 
 1. **Name the scale** each statement points to, using the table above. This is scored below.
 2. **Rank the statements for yourself.** This is not scored. The explanations show how two different, honest people might rank it.
@@ -108,69 +108,14 @@ These ten example blocks are original, written for these notes. They are not tak
 
 | | Statement |
 |---|---|
-| A | I give people the benefit of the doubt. |
-| B | I enjoy beating a rival. |
-| C | Pressure at work rarely makes me tense. |
-
-### Block 6
-
-| | Statement |
-|---|---|
-| A | I feel on edge before important meetings. |
-| B | I get frustrated when a colleague outperforms me. |
-| C | I rarely show when I am annoyed. |
-
-### Block 7
-
-| | Statement |
-|---|---|
 | A | Harsh feedback does not stay with me for long. |
 | B | I usually assume a setback will be temporary. |
 | C | I am full of energy at work. |
 
 <details>
-<summary>Answers and explanations, blocks 5 to 7</summary>
+<summary>Answers and explanations, block 5</summary>
 
-**Block 5: A Trusting, B Competitive, C Relaxed.** A is about trusting others. B is about winning against others. C is about general calm under everyday pressure. *How two people might rank it:* someone who plays team sports and keeps score at everything puts B first. Someone colleagues describe as unflappable puts C first.
-
-**Block 6: A Worrying, B Competitive, C Emotionally Controlled.** A is about nerves before events. B is about wanting to beat others. C is about not showing feelings. *How two people might rank it:* none of the three sounds flattering, which makes it a good test of honest answering. Someone who checks the team leaderboard every morning puts B first. Someone whose friends say "I never know when you are upset" puts C first. If you really do lie awake before big meetings, A belongs high.
-
-**Block 7: A Tough-minded, B Optimistic, C Vigorous.** A is about resilience to criticism. B is about expecting good outcomes. C is about energy. *How two people might rank it:* A and B can feel similar but are different. Tough-minded is about criticism of you. Optimistic is about how you expect events to go.
-
-</details>
-
-### Block 8
-
-| | Statement |
-|---|---|
-| A | I decide quickly, even when the information is incomplete. |
-| B | I trust colleagues to keep their promises. |
-| C | I feel relaxed most of the time. |
-
-### Block 9
-
-| | Statement |
-|---|---|
-| A | I hate to lose, even in a friendly contest. |
-| B | I hide my emotions when things go wrong. |
-| C | I look forward to the future with confidence. |
-
-### Block 10
-
-| | Statement |
-|---|---|
-| A | I work best when I have plenty going on. |
-| B | I find it hard to accept coming second. |
-| C | I get anxious in the days before an important deadline. |
-
-<details>
-<summary>Answers and explanations, blocks 8 to 10</summary>
-
-**Block 8: A Decisive, B Trusting, C Relaxed.** A is about speed of decision. B is about trust in others. C is about general calm. *How two people might rank it:* a duty manager who has to make calls on the spot puts A first. Someone who does not chase colleagues because they expect them to deliver puts B first.
-
-**Block 9: A Competitive, B Emotionally Controlled, C Optimistic.** A is about wanting to win. B is about hiding feelings. C is about expecting good things. *How two people might rank it:* someone who turns every office quiz into a contest puts A first. Someone who stays composed after bad news puts B first.
-
-**Block 10: A Vigorous, B Competitive, C Worrying.** A is about energy and pace. B is about wanting to win. C is about nerves before important events. *Consistency check:* blocks 2, 6 and 10 each have a Worrying statement. Look at where you ranked them. If you put it first once and last twice, think about whether you were answering honestly each time, or only when the other two statements felt even less like you. Both are possible. What matters is that each choice reflects how you really are.
+**Block 5: A Tough-minded, B Optimistic, C Vigorous.** A is about resilience to criticism. B is about expecting good outcomes. C is about energy. *How two people might rank it:* A and B can feel similar but are different. Tough-minded is about criticism of you. Optimistic is about how you expect events to go.
 
 </details>
 
@@ -184,18 +129,15 @@ This scores your **scale recognition**. Your own rankings are not scored.
 | 2 | Worrying | Competitive | Trusting |
 | 3 | Tough-minded | Achieving | Emotionally Controlled |
 | 4 | Optimistic | Decisive | Vigorous |
-| 5 | Trusting | Competitive | Relaxed |
-| 6 | Worrying | Competitive | Emotionally Controlled |
-| 7 | Tough-minded | Optimistic | Vigorous |
-| 8 | Decisive | Trusting | Relaxed |
-| 9 | Competitive | Emotionally Controlled | Optimistic |
-| 10 | Vigorous | Competitive | Worrying |
+| 5 | Tough-minded | Optimistic | Vigorous |
 
-Count your correct scale names out of 30.
+Count your correct scale names out of 15.
 
-- **26 to 30:** you can read this part of a profile easily. Go on to [how results are reported](../scoring.md).
-- **20 to 25:** the common mix-ups are Relaxed with Worrying, Tough-minded with Emotionally Controlled, and Competitive with Achieving. Reread those rows.
-- **19 or fewer:** reread the table, then redo the blocks naming each scale first.
+- **13 to 15:** you can read this part of a profile easily. Go on to [how results are reported](../scoring.md).
+- **10 to 12:** the common mix-ups are Relaxed with Worrying, Tough-minded with Emotionally Controlled, and Competitive with Achieving. Reread those rows.
+- **9 or fewer:** reread the table, then redo the blocks naming each scale first.
+
+Want more? The [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r) has a 104-block forced-choice practice pack in the real format, and you can try the first blocks and a sample result free.
 
 ### Your own pattern
 

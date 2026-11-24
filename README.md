@@ -1,13 +1,13 @@
 # SHL OPQ32r Study Notes
 
-A free, plain-English guide to the SHL OPQ32r, the Occupational Personality Questionnaire many employers use in graduate, professional and management hiring. It explains the forced-choice format, all 32 scales in our own words, how results are reported, and how to answer consistently and honestly, with 30 worked example blocks and a short diagnostic. There is no "ideal profile" advice here, because there is no ideal profile. Facts about the questionnaire come only from SHL's own pages and documents, each one [cited](docs/sources.md).
+A free, plain-English guide to the SHL OPQ32r, the Occupational Personality Questionnaire many employers use in graduate, professional and management hiring. It explains the forced-choice format, all 32 scales in our own words, how results are reported, and how to answer consistently and honestly, with 15 worked example blocks and a short diagnostic. There is no "ideal profile" advice here, because there is no ideal profile. Facts about the questionnaire come only from SHL's own pages and documents, each one [cited](docs/sources.md).
 
 Want to see the format first? Try a few forced-choice blocks on the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r), or start with the [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
 1. **Learn the format.** Read [how the forced-choice format works](docs/forced-choice-format.md), then take the [15-minute diagnostic](docs/diagnostic.md). It shows which of the three areas you know least.
-2. **Learn that area's scales.** Open its guide below, read the scale table, and work through its ten example blocks.
+2. **Learn that area's scales.** Open its guide below, read the scale table, and work through its five example blocks.
 3. **Know yourself, then follow a plan.** Read [answering consistently and honestly](docs/answering-honestly.md), then use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your link has arrived.
 
 ## Quick facts
@@ -33,7 +33,7 @@ Sources: [SHL OPQ fact sheet](https://service.shl.com/docs/OPQ%20Product%20Fact%
 | Thinking Style | Analysis, Creativity and Change, Structure | 12 | Analysing, handling ideas and change, planning and organising | [Thinking Style](docs/sections/thinking-style.md) |
 | Feelings and Emotions | Emotions, Dynamism | 10 | Handling pressure and setbacks, energy, drive and pace | [Feelings and Emotions](docs/sections/feelings-and-emotions.md) |
 
-Every area guide has the same parts: what it measures, a plain-language table of every scale, how the statements look, a method for answering honestly, the traps that distort a profile, timing, ten original example blocks with worked explanations, and a scale-recognition score table.
+Every area guide has the same parts: what it measures, a plain-language table of every scale, how the statements look, a method for answering honestly, the traps that distort a profile, timing, five original example blocks with worked explanations, and a scale-recognition score table.
 
 ## Contents
 
@@ -157,7 +157,7 @@ Every area guide has the same parts: what it measures, a plain-language table of
 
 ## About the example blocks
 
-All 30 example blocks and the 9 diagnostic statements are original, written for these notes. None are taken from the OPQ32r, from SHL's materials or from any prep site. They teach the format and the scales. They are not a way to predict or steer your real profile.
+All 15 example blocks and the 6 diagnostic statements are original, written for these notes. None are taken from the OPQ32r, from SHL's materials or from any prep site. They teach the format and the scales. They are not a way to predict or steer your real profile.
 
 ## Contributing
 

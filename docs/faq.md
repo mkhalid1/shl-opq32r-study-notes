@@ -58,7 +58,7 @@ That is up to the employer. SHL's sample candidate report says a profile is like
 
 ## Where can I practise for free?
 
-SHL hosts [example questions](https://www.shl.com/shldirect/en/example-questions/personality-questionnaire/). This repo has 30 example blocks across the three area guides. The free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r) lets you try forced-choice blocks, see a sample result and take a free 55-item trait profiler.
+SHL hosts [example questions](https://www.shl.com/shldirect/en/example-questions/personality-questionnaire/). This repo has 15 example blocks across the three area guides. The free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r) lets you try forced-choice blocks, see a sample result and take a free 55-item trait profiler.
 
 ---
 

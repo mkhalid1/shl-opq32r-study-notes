@@ -4,7 +4,7 @@
 
 **In one line:** twelve OPQ scales about how you approach work and problems: how you analyse, how you handle ideas and change, and how you plan and organise.
 
-Thinking Style is the second broad area of the OPQ32, with three sub-groups: **Analysis**, **Creativity and Change** and **Structure**. It is the largest area, with twelve of the 32 scales. This page explains each one in plain words and walks through ten example blocks.
+Thinking Style is the second broad area of the OPQ32, with three sub-groups: **Analysis**, **Creativity and Change** and **Structure**. It is the largest area, with twelve of the 32 scales. This page explains each one in plain words and walks through five example blocks.
 
 ## What it measures
 
@@ -56,7 +56,7 @@ The questionnaire is untimed, and SHL's figures for average completion range fro
 
 ## Practice items
 
-These ten example blocks are original, written for these notes. They are not taken from the OPQ32r or any SHL material. For each block:
+These five example blocks are original, written for these notes. They are not taken from the OPQ32r or any SHL material. For each block:
 
 1. **Name the scale** each statement points to, using the table above. This is scored below.
 2. **Rank the statements for yourself.** This is not scored. The explanations show how different, honest people might rank it.
@@ -110,69 +110,14 @@ These ten example blocks are original, written for these notes. They are not tak
 
 | | Statement |
 |---|---|
-| A | I think about where my work will be in two or three years. |
-| B | I base decisions on the figures rather than on gut feeling. |
-| C | I get bored when my work is the same every day. |
-
-### Block 6
-
-| | Statement |
-|---|---|
-| A | I enjoy inventing new ways of doing things. |
-| B | I spot mistakes in documents that others miss. |
-| C | I stick to the agreed process even when others cut corners. |
-
-### Block 7
-
-| | Statement |
-|---|---|
-| A | I question the reasoning behind proposals. |
-| B | I like to understand what motivates the people I work with. |
-| C | I prefer established ways of working to untested ones. |
-
-<details>
-<summary>Answers and explanations, blocks 5 to 7</summary>
-
-**Block 5: A Forward Thinking, B Data Rational, C Variety Seeking.** A is about long-term planning. B is about deciding from figures. C is about disliking routine. *How two people might rank it:* someone who left a previous job because it was repetitive would rank C high. Someone who always asks "what does the data say?" puts B first. A is about planning further ahead than the current task.
-
-**Block 6: A Innovative, B Detail Conscious, C Rule Following.** A is about original ideas. B is about catching small errors. C is about procedure. *How two people might rank it:* a proofreader puts B first. Someone who keeps redesigning how the team does its weekly report puts A first. If you put A first here, check whether that matches your answer to block 1, which also had an Innovative statement.
-
-**Block 7: A Evaluative, B Behavioural, C Conventional.** A is about critical examination of arguments. B is about understanding motives. C is about proven methods. *How two people might rank it:* a lawyer in training might put A first. A people manager might put B first. Note the difference between A and B: one picks apart reasoning, the other tries to understand people.
-
-</details>
-
-### Block 8
-
-| | Statement |
-|---|---|
-| A | I change my approach easily when a situation changes. |
-| B | I finish what I start, however long it takes. |
-| C | I like thinking about problems at a theoretical level. |
-
-### Block 9
-
-| | Statement |
-|---|---|
 | A | I think months ahead about what my work will need. |
 | B | I enjoy working through spreadsheets and statistics. |
 | C | I look for faults in arguments, including my own. |
 
-### Block 10
-
-| | Statement |
-|---|---|
-| A | I look for new tasks to break up my routine. |
-| B | I follow company policy closely. |
-| C | I am the one who suggests a completely new approach. |
-
 <details>
-<summary>Answers and explanations, blocks 8 to 10</summary>
+<summary>Answers and explanations, block 5</summary>
 
-**Block 8: A Adaptable, B Conscientious, C Conceptual.** A is about adjusting to the situation. B is about persistence to completion. C is about enjoying abstract ideas. *How two people might rank it:* an events coordinator whose plans change hourly puts A first. A doctoral student puts C first. If you feel all three are true, think about which one you would give as an example in an interview without hesitating.
-
-**Block 9: A Forward Thinking, B Data Rational, C Evaluative.** A is about planning ahead. B is about evidence from figures. C is about critical evaluation. *How two people might rank it:* B and C are both "analytical" but differ. B is about numbers. C is about the logic of an argument. A data analyst might put B first. A policy officer reviewing proposals might put C first.
-
-**Block 10: A Variety Seeking, B Rule Following, C Innovative.** A is about wanting variety. B is about following policy. C is about original ideas. *Consistency check:* blocks 2, 5 and 10 each include a Variety Seeking statement. If you ranked it first in one and last in another, the other statements in those blocks may explain it, which is fine. If it was mood, settle on what is true over a normal month.
+**Block 5: A Forward Thinking, B Data Rational, C Evaluative.** A is about planning ahead. B is about evidence from figures. C is about critical evaluation. *How two people might rank it:* B and C are both "analytical" but differ. B is about numbers. C is about the logic of an argument. A data analyst might put B first. A policy officer reviewing proposals might put C first.
 
 </details>
 
@@ -186,18 +131,15 @@ This scores your **scale recognition**. Your own rankings are not scored, becaus
 | 2 | Evaluative | Conventional | Variety Seeking |
 | 3 | Behavioural | Detail Conscious | Adaptable |
 | 4 | Conceptual | Conscientious | Rule Following |
-| 5 | Forward Thinking | Data Rational | Variety Seeking |
-| 6 | Innovative | Detail Conscious | Rule Following |
-| 7 | Evaluative | Behavioural | Conventional |
-| 8 | Adaptable | Conscientious | Conceptual |
-| 9 | Forward Thinking | Data Rational | Evaluative |
-| 10 | Variety Seeking | Rule Following | Innovative |
+| 5 | Forward Thinking | Data Rational | Evaluative |
 
-Count your correct scale names out of 30.
+Count your correct scale names out of 15.
 
-- **26 to 30:** solid. Move to [Feelings and Emotions](feelings-and-emotions.md).
-- **20 to 25:** the common mix-ups are Innovative with Variety Seeking, Conventional with Rule Following, and Evaluative with Data Rational. Reread those rows.
-- **19 or fewer:** reread the table, then redo the blocks naming each scale before ranking.
+- **13 to 15:** solid. Move to [Feelings and Emotions](feelings-and-emotions.md).
+- **10 to 12:** the common mix-ups are Innovative with Variety Seeking, Conventional with Rule Following, and Evaluative with Data Rational. Reread those rows.
+- **9 or fewer:** reread the table, then redo the blocks naming each scale before ranking.
+
+Want more? The [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r) has a 104-block forced-choice practice pack in the real format, and you can try the first blocks and a sample result free.
 
 ### Your own pattern
 
