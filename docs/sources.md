@@ -31,7 +31,6 @@ We looked and did not find these on SHL's public pages, so the notes do not stat
 
 - The scoring model that turns choices into stens
 - How the consistency scale is calculated or used
-- How many statements the 104 questions contain in total
 - Any "ideal" or target profile, or a pass mark
 
 ## What is our own guidance

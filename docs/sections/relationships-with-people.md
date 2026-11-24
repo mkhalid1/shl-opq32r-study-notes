@@ -17,7 +17,7 @@ These scales describe your preferred style with people at work, as you see it yo
 | Influence | **Outspoken** | says what they think, including disagreement | tends to keep critical views to themselves |
 | Influence | **Independent Minded** | follows their own approach even against the majority | goes along with the group's decision |
 | Sociability | **Outgoing** | is lively and talkative in groups | is quieter and more reserved in groups |
-| Sociability | **Affiliative** | likes to be around people and work alongside them | is comfortable working alone for long stretches |
+| Sociability | **Affiliative** | enjoys company at work and prefers working in a team | is comfortable working alone for long stretches |
 | Sociability | **Socially Confident** | feels at ease meeting new people and in formal settings | can feel awkward with strangers or on formal occasions |
 | Empathy | **Modest** | rarely talks about their own successes | is comfortable making achievements known |
 | Empathy | **Democratic** | consults widely before deciding | is willing to decide alone |

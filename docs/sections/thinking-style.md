@@ -12,7 +12,7 @@ These scales describe how you prefer to think and work, as you see it. They are 
 
 | Sub-group | Scale | Higher scores describe someone who | Lower scores describe someone who |
 |---|---|---|---|
-| Analysis | **Data Rational** | likes working with numbers and bases decisions on facts and figures | prefers to work from opinions and feelings rather than statistics |
+| Analysis | **Data Rational** | enjoys data and wants evidence before deciding | goes more by judgement and how people feel about an option |
 | Analysis | **Evaluative** | examines information critically and looks for weak points | is less inclined to pick plans and arguments apart |
 | Analysis | **Behavioural** | tries to understand why people act as they do | takes people's behaviour at face value |
 | Creativity and Change | **Conventional** | prefers tried and tested ways of working | is happy to drop the usual method |

@@ -37,7 +37,7 @@ SHL's psychometric testing page describes the model as three domains, Relationsh
 
 SHL's example page describes the format: you see three statements about behaviour at work, choose the one most like you, that statement disappears, and you choose the more like you of the two that remain. SHL says the statements in each set are designed to be equally desirable, which makes it hard to pick a "best" answer and is meant to reduce faking. See [how the forced-choice format works](forced-choice-format.md) for the detail.
 
-SHL lists 104 questions. It does not say on these pages how many statements that adds up to, so we do not give a figure.
+SHL lists 104 questions, and its example page shows each one as a set of three statements.
 
 ## Who uses it and why
 
