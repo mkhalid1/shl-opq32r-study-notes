@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Feelings and Emotions](sections/feelings-and-emotions.md) · Next: [Answering consistently and honestly](answering-honestly.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Feelings and Emotions](sections/feelings-and-emotions.md) · Next: [Answering consistently and honestly](answering-honestly.md)
+<!-- /nav:top -->
 
 # How OPQ32r results are reported
 
@@ -62,4 +64,6 @@ Seeing a profile for yourself makes the scale tables much easier to understand. 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Feelings and Emotions](sections/feelings-and-emotions.md) | Next: [Answering consistently and honestly](answering-honestly.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Feelings and Emotions](sections/feelings-and-emotions.md) | Next: [Answering consistently and honestly](answering-honestly.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

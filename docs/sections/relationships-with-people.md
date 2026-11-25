@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Thinking Style](thinking-style.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Thinking Style](thinking-style.md)
+<!-- /nav:top -->
 
 # Relationships with People
 
@@ -151,4 +153,6 @@ The real questionnaire mixes all 32 scales in its blocks. Try mixed forced-choic
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Thinking Style](thinking-style.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Thinking Style](thinking-style.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

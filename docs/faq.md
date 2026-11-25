@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Test-day checklist](test-day-checklist.md) · Next: [Glossary](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Test-day checklist](test-day-checklist.md) · Next: [Glossary](glossary.md)
+<!-- /nav:top -->
 
 # FAQ
 
@@ -62,4 +64,6 @@ SHL hosts [example questions](https://www.shl.com/shldirect/en/example-questions
 
 ---
 
-<!-- nav:bottom -->← Previous: [Test-day checklist](test-day-checklist.md) | Next: [Glossary](glossary.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Test-day checklist](test-day-checklist.md) | Next: [Glossary](glossary.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

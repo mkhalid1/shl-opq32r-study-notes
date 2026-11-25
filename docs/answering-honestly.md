@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [How results are reported](scoring.md) · Next: [Study plans: 7 days and 2 days](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [How results are reported](scoring.md) · Next: [Study plans: 7 days and 2 days](study-plans.md)
+<!-- /nav:top -->
 
 # Answering consistently and honestly
 
@@ -71,4 +73,6 @@ Try the free blocks on the [SHL OPQ32 practice page on PrepClubs](https://prepcl
 
 ---
 
-<!-- nav:bottom -->← Previous: [How results are reported](scoring.md) | Next: [Study plans: 7 days and 2 days](study-plans.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [How results are reported](scoring.md) | Next: [Study plans: 7 days and 2 days](study-plans.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Next: [How the forced-choice format works](forced-choice-format.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Next: [How the forced-choice format works](forced-choice-format.md)
+<!-- /nav:top -->
 
 # The SHL OPQ32r explained
 
@@ -66,4 +68,6 @@ The format feels odd the first time, because every block forces a choice between
 
 ---
 
-<!-- nav:bottom -->Next: [How the forced-choice format works](forced-choice-format.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Next: [How the forced-choice format works](forced-choice-format.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

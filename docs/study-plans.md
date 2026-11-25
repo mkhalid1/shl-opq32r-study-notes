@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Answering consistently and honestly](answering-honestly.md) · Next: [Test-day checklist](test-day-checklist.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Answering consistently and honestly](answering-honestly.md) · Next: [Test-day checklist](test-day-checklist.md)
+<!-- /nav:top -->
 
 # Study plans
 
@@ -46,4 +48,6 @@ For when the link has arrived.
 
 ---
 
-<!-- nav:bottom -->← Previous: [Answering consistently and honestly](answering-honestly.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Answering consistently and honestly](answering-honestly.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

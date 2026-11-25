@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Relationships with People](relationships-with-people.md) · Next: [Feelings and Emotions](feelings-and-emotions.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Relationships with People](relationships-with-people.md) · Next: [Feelings and Emotions](feelings-and-emotions.md)
+<!-- /nav:top -->
 
 # Thinking Style
 
@@ -151,4 +153,6 @@ The real questionnaire mixes all 32 scales. Try mixed forced-choice blocks and a
 
 ---
 
-<!-- nav:bottom -->← Previous: [Relationships with People](relationships-with-people.md) | Next: [Feelings and Emotions](feelings-and-emotions.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Relationships with People](relationships-with-people.md) | Next: [Feelings and Emotions](feelings-and-emotions.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

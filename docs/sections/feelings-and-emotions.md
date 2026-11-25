@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Thinking Style](thinking-style.md) · Next: [How results are reported](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Thinking Style](thinking-style.md) · Next: [How results are reported](../scoring.md)
+<!-- /nav:top -->
 
 # Feelings and Emotions
 
@@ -149,4 +151,6 @@ Try mixed forced-choice blocks and a sample result on the free [SHL OPQ32 practi
 
 ---
 
-<!-- nav:bottom -->← Previous: [Thinking Style](thinking-style.md) | Next: [How results are reported](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Thinking Style](thinking-style.md) | Next: [How results are reported](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [How the forced-choice format works](forced-choice-format.md) · Next: [Relationships with People](sections/relationships-with-people.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [How the forced-choice format works](forced-choice-format.md) · Next: [Relationships with People](sections/relationships-with-people.md)
+<!-- /nav:top -->
 
 # 15-minute diagnostic
 
@@ -77,4 +79,6 @@ Then follow a [study plan](study-plans.md), and try a few forced-choice blocks o
 
 ---
 
-<!-- nav:bottom -->← Previous: [How the forced-choice format works](forced-choice-format.md) | Next: [Relationships with People](sections/relationships-with-people.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [How the forced-choice format works](forced-choice-format.md) | Next: [Relationships with People](sections/relationships-with-people.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->
