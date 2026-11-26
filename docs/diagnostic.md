@@ -75,7 +75,7 @@ Choose the one most like you at work, then the more like you of the remaining tw
 | Any | 2 | Skim that area's scale table and do its example blocks |
 | Part D took over 30 seconds | | Read [how the forced-choice format works](forced-choice-format.md) and the hard-blocks table |
 
-Then follow a [study plan](study-plans.md), and try a few forced-choice blocks on the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r).
+Then follow a [study plan](study-plans.md), and try a few forced-choice blocks on the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=cu2th7&utm_content=shl-opq32r).
 
 ---
 

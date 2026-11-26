@@ -64,7 +64,7 @@ Answer about how you actually behave at work, on a normal week, not how you thin
 
 ## Practise the format
 
-The format feels odd the first time, because every block forces a choice between things that all sound reasonable. Try it before the real one: the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r) lets you try forced-choice blocks and see a sample result, and has a free 55-item trait profiler. SHL also hosts [example questions](https://www.shl.com/shldirect/en/example-questions/personality-questionnaire/).
+The format feels odd the first time, because every block forces a choice between things that all sound reasonable. Try it before the real one: the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=cu2th7&utm_content=shl-opq32r) lets you try forced-choice blocks and see a sample result, and has a free 55-item trait profiler. SHL also hosts [example questions](https://www.shl.com/shldirect/en/example-questions/personality-questionnaire/).
 
 ---
 

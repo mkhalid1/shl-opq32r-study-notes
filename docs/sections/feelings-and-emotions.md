@@ -139,7 +139,7 @@ Count your correct scale names out of 15.
 - **10 to 12:** the common mix-ups are Relaxed with Worrying, Tough-minded with Emotionally Controlled, and Competitive with Achieving. Reread those rows.
 - **9 or fewer:** reread the table, then redo the blocks naming each scale first.
 
-Want more? The [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r) has a 104-block forced-choice practice pack in the real format, and you can try the first blocks and a sample result free.
+Want more? The [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=cu2th7&utm_content=shl-opq32r) has a 104-block forced-choice practice pack in the real format, and you can try the first blocks and a sample result free.
 
 ### Your own pattern
 
@@ -147,7 +147,7 @@ Which of these scales did you rank first most often, and which last? The ones yo
 
 ## Next step
 
-Try mixed forced-choice blocks and a sample result on the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r), then check the result against the three scale tables.
+Try mixed forced-choice blocks and a sample result on the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=cu2th7&utm_content=shl-opq32r), then check the result against the three scale tables.
 
 ---
 

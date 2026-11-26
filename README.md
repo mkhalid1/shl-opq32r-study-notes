@@ -2,7 +2,7 @@
 
 A free, plain-English guide to the SHL OPQ32r, the Occupational Personality Questionnaire many employers use in graduate, professional and management hiring. It explains the forced-choice format, all 32 scales in our own words, how results are reported, and how to answer consistently and honestly, with 15 worked example blocks and a short diagnostic. There is no "ideal profile" advice here, because there is no ideal profile. Facts about the questionnaire come only from SHL's own pages and documents, each one [cited](docs/sources.md).
 
-Want to see the format first? Try a few forced-choice blocks on the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r), or start with the [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see the format first? Try a few forced-choice blocks on the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=cu2th7&utm_content=shl-opq32r), or start with the [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 

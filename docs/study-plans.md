@@ -17,7 +17,7 @@ About 30 to 45 minutes a day.
 | 3 | Thinking Style | Read the [guide](sections/thinking-style.md) and do its five blocks. |
 | 4 | Feelings and Emotions | Read the [guide](sections/feelings-and-emotions.md) and do its five blocks. |
 | 5 | Know yourself on paper | Follow the steps in [answering honestly](answering-honestly.md#before-the-questionnaire-know-yourself-on-paper): mark all 32 scales high, middle or low, and write examples for your top and bottom five. |
-| 6 | Practice run | Try the free blocks and the 55-item trait profiler on the [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r) with one fixed reference point. Compare what they show with your day 5 list. Read [how results are reported](scoring.md). |
+| 6 | Practice run | Try the free blocks and the 55-item trait profiler on the [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=cu2th7&utm_content=shl-opq32r) with one fixed reference point. Compare what they show with your day 5 list. Read [how results are reported](scoring.md). |
 | 7 | Interview prep and rest | Prepare answers for the interview questions in [answering honestly](answering-honestly.md#after-the-questionnaire-prepare-to-talk-about-it). Read the [checklist](test-day-checklist.md). Take the real questionnaire when you are rested. |
 
 ### How to review a practice profile

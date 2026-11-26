@@ -69,7 +69,7 @@ Every profile has low scores. Interviewers expect them, and a clear example of h
 
 ## Practise answering steadily
 
-Try the free blocks on the [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r) using one fixed reference point, and its free 55-item trait profiler. Then compare what they show with your own high-middle-low list. Where they disagree, ask which one is closer to the truth.
+Try the free blocks on the [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=cu2th7&utm_content=shl-opq32r) using one fixed reference point, and its free 55-item trait profiler. Then compare what they show with your own high-middle-low list. Where they disagree, ask which one is closer to the truth.
 
 ---
 

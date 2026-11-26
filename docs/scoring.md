@@ -60,7 +60,7 @@ There is no published pass mark, no ideal profile, and no total score. A profile
 
 ## See a practice profile
 
-Seeing a profile for yourself makes the scale tables much easier to understand. The free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r) shows a full sample result on 32 work-style scales, which you can read against the three area guides. Only SHL produces real OPQ sten scores.
+Seeing a profile for yourself makes the scale tables much easier to understand. The free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=cu2th7&utm_content=shl-opq32r) shows a full sample result on 32 work-style scales, which you can read against the three area guides. Only SHL produces real OPQ sten scores.
 
 ---
 

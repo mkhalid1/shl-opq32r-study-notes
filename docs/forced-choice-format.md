@@ -65,7 +65,7 @@ SHL's sample profile reports show the result as a sten score from 1 to 10 for ea
 
 ## Practise the format
 
-Ten minutes with real blocks makes the format feel normal. Work through the example blocks in the three area guides, starting with [Relationships with People](sections/relationships-with-people.md), then try the blocks on the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r).
+Ten minutes with real blocks makes the format feel normal. Work through the example blocks in the three area guides, starting with [Relationships with People](sections/relationships-with-people.md), then try the blocks on the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=cu2th7&utm_content=shl-opq32r).
 
 ---
 

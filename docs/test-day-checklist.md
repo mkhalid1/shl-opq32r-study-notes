@@ -37,7 +37,7 @@ The OPQ32r is untimed and taken online, usually on your own. That makes it easy 
 
 ## A practice run first
 
-If you have never seen forced-choice blocks, do a practice run before the real one. The free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r) lets you try forced-choice blocks of three statements. Its blocks ask for a most-like and a least-like choice, the older OPQ style. The ranking you end up with is the same as in the current choose-then-choose-again format.
+If you have never seen forced-choice blocks, do a practice run before the real one. The free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=cu2th7&utm_content=shl-opq32r) lets you try forced-choice blocks of three statements. Its blocks ask for a most-like and a least-like choice, the older OPQ style. The ranking you end up with is the same as in the current choose-then-choose-again format.
 
 ---
 

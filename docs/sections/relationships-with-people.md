@@ -141,7 +141,7 @@ Count your correct scale names out of 15.
 - **10 to 12:** the usual mix-ups are Persuasive with Independent Minded, Affiliative with Socially Confident, and Outgoing with Controlling. Reread their rows in the table.
 - **9 or fewer:** read the table once more, then redo the blocks naming the scale before you look at your own ranking.
 
-Want more? The [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r) has a 104-block forced-choice practice pack in the real format, and you can try the first blocks and a sample result free.
+Want more? The [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=cu2th7&utm_content=shl-opq32r) has a 104-block forced-choice practice pack in the real format, and you can try the first blocks and a sample result free.
 
 ### Your own pattern
 
@@ -149,7 +149,7 @@ Look at your rankings across the five blocks. Which two or three scales did you 
 
 ## Next step
 
-The real questionnaire mixes all 32 scales in its blocks. Try mixed forced-choice blocks and a sample result on the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=shl-opq32r), then read the result against the scale table on this page.
+The real questionnaire mixes all 32 scales in its blocks. Try mixed forced-choice blocks and a sample result on the free [SHL OPQ32 practice page on PrepClubs](https://prepclubs.com/free-practice-tests/shl-opq32?utm_source=github&utm_medium=referral&utm_campaign=cu2th7&utm_content=shl-opq32r), then read the result against the scale table on this page.
 
 ---
 
